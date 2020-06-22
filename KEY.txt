@@ -1,0 +1,25 @@
+1 = White
+2 = Black
+3 = Asian
+4 = U
+5 = O
+M = 6
+I = 7
+
+Gender
+F = 1
+U = 2
+
+Party:
+1 = DEM
+2 = REpublican
+3 = None/ Alone
+
+TRIAL
+1 = treatment
+2 = no treatment
+
+VOTE:
+
+Yes  = 1
+No = 2
