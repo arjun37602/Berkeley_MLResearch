@@ -14,7 +14,7 @@ from sklearn.svm import LinearSVC
 from sklearn.metrics import accuracy_score
 
 
-
+#code begins here
 #reading in data
 colnames = [ 'Race' , 'Age' , 'Trial', 'LettersSent' , 'Y1', 'Y2', 'Y3', 'Y4', 'Y5', 'Test']
 df = pd.read_csv('mod - Copy.csv', names=colnames, usecols=['Race', 'Age', 'Trial', 'LettersSent', 'Y1', 'Y2', 'Y3', 'Y4', 'Y5', 'Test'])
